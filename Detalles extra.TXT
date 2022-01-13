@@ -1,0 +1,30 @@
+1) -Definimos una clase java : "Dog"
+2) -Definimos dos variables para la clase Dog : name & age.
+3) -Creamos los setters y getters para las variables declaradas. (¿que son los setter y geter , cuales son sus funciones?.
+4) -Generamos el constructor del la clase : Source > Generate Constructor from Fields.
+
+ ¿Que es un constructor?
+Un constructor en java es un metodo especial dentro de una clase, que se llama automaticamente cada vez que creamos un objeto de esa clase.
+su identificador debe coincidir con el de la clase correspondiente.
+
+F(x) del constructor : la funcion del constructor, es obligar a y controlar cómo se inicializa una instancia de una determinada clase.
+		       esto se debe a que en java, las variables , no pueden quedar sin inicializar.
+
+5) -Refactorizacio del código: la refactorización es una tecnica que modifica la estructura del código sin alterar el comportamiento que tiene el programa.
+			       es decir, que el programa, compila y se ejecuta de manera correcta!
+
+	Tipos de refactorización:
+		5.1) reemplazar una expresión constante en el cuerpo de un método por un parámetro para el método. (Refactor > Introduce Parameter).
+		5.2) derivar una nueva interfaz, a partir, de métodos seleccionados en una clase existente.	   (Refactor > Extract Interface).
+	        5.3) cambiar el nombre de un método, por lo que cada aparición del nombre del método se reemplaza por el nuevo nombre. (Refactor > Rename).
+
+
+6) -Cree un bean administrado y utilicelo en una página JSF:  puede crear un diagrama de flujo de página, agregar una clase Java como un bean administrado
+							      y usar el bean administrado en una página JSF.
+
+
+
+
+
+
+proyecto desarrolado en 12.2.1.4 Jdeveloper
